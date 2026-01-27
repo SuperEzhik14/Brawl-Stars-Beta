@@ -7,6 +7,9 @@
             Console.WriteLine("Hello, World!");
 
             Console.WriteLine("Better");
+
+            string name = Console.ReadLine();
+            
         }
     }
 }
