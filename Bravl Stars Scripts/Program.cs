@@ -8,6 +8,7 @@
             Console.WriteLine("Master");
 
             Console.WriteLine("Обнова 20.1");
+            Console.WriteLine("Стараюсь понять");
         }
     }
 }
