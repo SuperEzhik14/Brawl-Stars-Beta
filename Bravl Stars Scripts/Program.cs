@@ -1,4 +1,6 @@
-﻿namespace Bravl_Stars_Scripts
+﻿using Bravl_Stars_Scripts.SuperHeroes;
+
+namespace Bravl_Stars_Scripts
 {
     internal class Program
     {
